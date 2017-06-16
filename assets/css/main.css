@@ -1093,7 +1093,7 @@
 			-ms-transition: -ms-transform 0.325s ease-in-out, -ms-filter 0.325s ease-in-out;
 			transition: transform 0.325s ease-in-out, filter 0.325s ease-in-out;
 			background-image: url("../../images/bg.gif");
-			background-position: 50% 50%;
+			background-position: 30% 20%;
 			background-size: cover;
 			background-repeat: no-repeat;
 			z-index: 1;
